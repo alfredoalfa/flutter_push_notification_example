@@ -1,3 +1,3 @@
-# push_notification_app
+# push notification app
 
 Push notification example with flutter and firebase.
